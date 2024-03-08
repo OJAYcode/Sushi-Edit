@@ -777,4 +777,10 @@ h1{
         flex-wrap: wrap;
     }
 }
+@media (max-width: 1400px) {
+    section{
+        padding-left: 1rem;
+        padding-left: 1rem;
+    }
+}
 }
